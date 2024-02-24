@@ -1,3 +1,11 @@
+Project was completed during Project Management (Bachelor) course
+Tutor: Mohamed Ibrahim
+University: Astana IT University 
+Project members: Dilnaz Akhmentzhan, Laura Shamykhanova, Karina Zhimagulova from BDA-2101
+
+
+
+
 # AI-based-Skincare-Assistant-
 1. Summary Statement
 It is necessary to maintain healthy skin since that plays a crucial role in controlling face condition and safeguarding it. Skincare field has a massive production of various products that are not suitable for everyone, not to mention the fact that skin is difficult to analyze. This lack of direction can result in frustrating skin care procedures, unnecessary harm to sensitive skin, money spent on useless products, and frustration.
